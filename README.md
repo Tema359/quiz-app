@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```sh
    git clone https://github.com/Tema359/quiz-app.git
-   cd todo
+   cd quiz-app
    npm install
    npm run dev
    ```
